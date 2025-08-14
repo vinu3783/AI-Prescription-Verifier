@@ -1,0 +1,13 @@
+{
+  "water_20250814_024744": {
+    "id": "water_20250814_024744",
+    "target_glasses": 8,
+    "glass_size_ml": 250,
+    "interval_minutes": 120,
+    "start_time": "07:00",
+    "end_time": "22:00",
+    "is_active": true,
+    "current_intake": 4,
+    "last_reminder": "2025-08-14T09:58:07.439598"
+  }
+}
